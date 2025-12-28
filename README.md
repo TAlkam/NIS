@@ -1,4 +1,3 @@
-# Identifying-Risk-Factors-for-In-Hospital-Mortality-in-Alzheimer-s-Disease
 
 # 🧠 Risk Stratification for In-Hospital Mortality in Alzheimer’s Disease
 
